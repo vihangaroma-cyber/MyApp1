@@ -1,5 +1,5 @@
 
-name: Build APK
+name: myone
 
 on:
   push:
